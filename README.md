@@ -1,5 +1,5 @@
 # BOC_SYSTEM
-This is vb.net system with gui.
+This is vb.net system
 - Payroll
 - CRUDS in employee and trainee
 - Print reciept in payroll
